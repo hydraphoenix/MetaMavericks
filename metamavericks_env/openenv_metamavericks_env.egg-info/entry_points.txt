@@ -1,0 +1,2 @@
+[console_scripts]
+server = metamavericks_env.server.app:main
